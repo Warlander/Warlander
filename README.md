@@ -52,7 +52,7 @@ A bundle of small tools for Wurm Online and Unlimited, developed using **JavaScr
 - Started making video games at **8 years old** using RPG Maker and GameMaker
 - Learned programming at **14** and built GUI tools for favorite games
 - Worked on MMO projects since **19 years old**
-- Guinea pig caretaker and enthusiast 🐹
+- Guinea pig caretaker and enthusiast 🐷
 
 ---
 
