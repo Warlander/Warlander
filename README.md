@@ -41,7 +41,7 @@ A Minesweeper-inspired game created in approximately 13 hours, showcasing rapid 
 
 - **Primary:** Unity, C#
 - **Additional:** C++, Unreal Engine, Java, OpenGL, JavaScript, HTML
-- **Focus Areas:** Game development, tools and API's, multiplayer systems, UI frameworks, build pipelines
+- **Focus Areas:** Game development, tools and APIs, multiplayer systems, UI frameworks, build pipelines
 
 ### 📫 Learn More
 
