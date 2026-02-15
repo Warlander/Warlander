@@ -10,6 +10,13 @@ Hello! I'm **Maciej Cyranowicz**, better known online as **Warlander**. Game dev
 - 🎯 Passionate about pushing the limits of game development and creating engaging player experiences
 - 🛠️ Building tools that empower creators and streamline development workflows
 
+### ⚡ Quick Facts
+
+- Started making video games at **8 years old** using RPG Maker and GameMaker
+- Learned programming at **14**, originally to build GUI tools for favorite games. Picked up GPU programming shortly after to push the limits of what kind of tools I'm able to create.
+- Worked on commercial projects since **19 years old**
+- Guinea pig caretaker and enthusiast 🐷
+
 ### 💼 Professional Experience
 
 - **Tactile Games** - Senior Content Tools Game Programmer (Lily's Garden, Suck It Up)
@@ -36,18 +43,11 @@ A Minesweeper-inspired game created in approximately 13 hours, showcasing rapid 
 - **Additional:** C++, Unreal Engine, Java, OpenGL, JavaScript, HTML
 - **Focus Areas:** Game development, tools and API's, multiplayer systems, UI frameworks, build pipelines
 
-### 📫 How to Reach Me
+### 📫 Learn More
 
 - 🌐 Portfolio: [warlander.github.io](https://warlander.github.io)
 - 💼 LinkedIn: [maciej-cyranowicz](https://www.linkedin.com/in/maciej-cyranowicz/)
 - 🐙 GitHub: You're already here!
-
-### ⚡ Fun Facts
-
-- Started making video games at **8 years old** using RPG Maker and GameMaker
-- Learned programming at **14**, originally to build GUI tools for favorite games. Picked up GPU programming shortly after to push the limits of what kind of tools I'm able to create.
-- Worked on commercial projects since **19 years old**
-- Guinea pig caretaker and enthusiast 🐷
 
 ---
 
