@@ -1,4 +1,4 @@
-## Hi there, I'm Warlander! 👋
+## Hi there! 👋
 
 Hello! I'm **Maciej Cyranowicz**, better known online as **Warlander**. Game developer by passion and trade, gamer, maker, and caretaker of guinea pigs. 🐷
 
