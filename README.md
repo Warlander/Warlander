@@ -45,7 +45,7 @@ A Minesweeper-inspired game created in approximately 13 hours, showcasing rapid 
 ### ⚡ Quick Facts
 
 - Started making video games at **8 years old** using RPG Maker and GameMaker
-- Learned programming at **14**, originally to build GUI tools for favorite games. Picked up GPU programming shortly after to push the limits of what kind of tools I'm able to create.
+- Learned programming at **14**, originally to build GUI tools for favorite games. Picked up OpenGL and GPU programming shortly after to push the limits of what kind of tools I'm able to create.
 - Worked on commercial projects since **19 years old**
 - Guinea pig caretaker and enthusiast 🐷
 
