@@ -1,13 +1,14 @@
 ## Hi there! 👋
 
-Hello! I'm **Maciej Cyranowicz**, better known online as **Warlander**. Game developer by passion and trade, gamer, maker, and caretaker of guinea pigs. 🐷
+Hello! I'm **Maciej Cyranowicz**, better known online as **Warlander**. Software developer by passion and trade, gamer, maker, and caretaker of guinea pigs. 🐷
 
 ### 👨‍💻 About Me
 
 - 🎮 **Unity game engine expert** with 6+ years of professional experience
-- 🌍 Currently based in **Copenhagen, Denmark**
+- 🌍 Based in **Copenhagen, Denmark**
 - 🔭 Working as Senior Content Tools Game Programmer at Tactile Games
-- 🎯 Passionate about pushing the limits of game development and creating engaging player experiences
+- 🧪 Constantly experimenting and trying out new things, enthusiastic about technology
+- 🎯 Passionate about pushing the limits of what software can do, creating engaging experiences and streamlining processes
 - 🛠️ Building tools that empower creators and streamline development workflows
 
 ### 💼 Professional Experience
@@ -34,7 +35,7 @@ A Minesweeper-inspired game created in approximately 13 hours, showcasing rapid 
 
 - **Primary:** Unity, C#
 - **Additional:** C++, Unreal Engine, Java, OpenGL, JavaScript, HTML
-- **Focus Areas:** Game development, tools and APIs, multiplayer systems, UI frameworks, build pipelines
+- **Focus Areas:** Tools and APIs, multiplayer systems, game development, UI frameworks, content delivery and build pipelines
 
 ### 📫 Learn More
 
@@ -51,4 +52,4 @@ A Minesweeper-inspired game created in approximately 13 hours, showcasing rapid 
 
 ---
 
-*Let's make games and push the limits of this art form together!* 🎮
+*Let's build things worth building!*
