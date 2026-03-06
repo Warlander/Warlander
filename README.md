@@ -4,7 +4,7 @@ Hello! I'm **Maciej Cyranowicz**, better known online as **Warlander**. Software
 
 ### 👨‍💻 About Me
 
-- 🎮 **Unity game engine expert** with 6+ years of professional experience
+- 🎮 **Unity game engine expert** with 6 years of professional experience and 11 years of experience with commercial projects
 - 🌍 Based in **Copenhagen, Denmark**
 - 🔭 Working as Senior Content Tools Game Programmer at Tactile Games
 - 🧪 Constantly experimenting and trying out new things, enthusiastic about technology
