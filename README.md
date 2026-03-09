@@ -40,8 +40,9 @@ A Minesweeper-inspired game created in approximately 13 hours, showcasing rapid 
 
 ### 🛠️ Technical Skills
 
-- **Primary:** Unity, C#
+- **Primary:** 6 years of experience with C# and Unity
 - **Additional:** C++, Unreal Engine, Java, OpenGL, JavaScript, HTML
+- **Tooling:** 1 year of experience with AI-assisted development (Claude, Codex, Cursor, Junie)
 - **Focus Areas:** Tools and APIs, multiplayer systems, game development, UI frameworks, content delivery and build pipelines
 
 ### 📫 Learn More
