@@ -38,7 +38,7 @@ The Java/OpenGL predecessor to DeedPlanner 3 - a village design and preview tool
 #### [Asteroid-Sweeper](https://github.com/Warlander/Asteroid-Sweeper)
 A Minesweeper-inspired game created in approximately 13 hours, showcasing rapid game development skills in **C#**.
 
-### [UPM Registry](https://upm.maciejcyranowicz.com)
+#### [UPM Registry](https://upm.maciejcyranowicz.com)
 Registry of Unity packages I published to the public.
 
 ### 🛠️ Technical Skills
