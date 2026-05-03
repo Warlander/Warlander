@@ -56,4 +56,4 @@ Registry of Unity packages I published to the public.
 
 ---
 
-*Let's build things worth building!*
+*Let's make games and push the limits of this art form together!*
